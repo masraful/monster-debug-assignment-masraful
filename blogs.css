@@ -34,7 +34,7 @@ header {
     cursor: pointer;
 }
 
-#blogs div b {
+#blogs div span {
     color: aquamarine;
 }
 
